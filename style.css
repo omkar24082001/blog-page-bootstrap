@@ -1,0 +1,62 @@
+.custom-img-height {
+    height: 550px; /* Set your desired height */
+    object-fit: cover; /* Optional: ensures the image covers the assigned area */
+}
+
+.side-img{
+    display: flex;
+}
+
+.custom-img-height-1 {
+    /* height: 400px; Set your desired height */
+    object-fit: cover; /* Optional: ensures the image covers the assigned area */
+    width: 100%;
+  
+}
+
+.custome-width{
+    display: flex;
+    width: 100%;
+}
+.shop-card{
+    margin-top: -48px;
+    margin-bottom: -48px;
+    margin-right: -48px;
+}
+.shop-card-2{
+    margin-top: -48px;
+    margin-bottom: -50px;
+    margin-left: -48px;
+}
+.custome-sec-4{
+    padding-left: 20px;
+}
+.custome-sec-5{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.custome-card{
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   
+  
+}
+
+.mode{
+   display: flex;
+   justify-content: end;
+   margin-right: 20px;
+   margin-bottom: 20px;
+   
+}
+.mode button{
+    border-radius: 5px;
+    box-shadow: 0px 2px;
+}
+   
+
+
+
